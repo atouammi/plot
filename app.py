@@ -16,7 +16,7 @@ numeric_columns = [
 ]
 
 # Streamlit app layout
-st.set_page_config(page_title="Ireland Gender Pay Gap Analysis", layout="wide")
+st.set_page_config(page_title="Hello Abel have a look", layout="wide")
 st.title("Ireland Gender Pay Gap Analysis")
 
 # About section
